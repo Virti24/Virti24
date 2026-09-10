@@ -92,8 +92,6 @@ A project focused on monitoring cloud environments and identifying potential sec
 - MySQL
 - MongoDB
 
-**AI Tools**
-
 **Developer Tools**
 
 - Git
