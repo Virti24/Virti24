@@ -10,6 +10,6 @@
 
 ## 👋 Hi, I'm Virti
 
-### ### Java Developer • AI Enthusiast
+###  Java Developer • AI Enthusiast
 
 </div>
