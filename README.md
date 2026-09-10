@@ -10,6 +10,6 @@
 
 ## 👋 Hi, I'm Virti
 
-### Computer Engineering Student • Developer • Problem Solver
+### ### Java Developer • AI Enthusiast
 
 </div>
